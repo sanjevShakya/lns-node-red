@@ -1,0 +1,12 @@
+{
+    "name": "lns-iot",
+    "description": "LNS IOT is a washing machine monitoring system",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_device_auth.json",
+            "credentialsFile": "flows_device_auth_cred.json"
+        }
+    }
+}
